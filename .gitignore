@@ -1,3 +1,11 @@
 .gitignore
+/.git
 __pycache__
-__pycache__/
+__pycache__/*
+/app/__pycache__
+/app/__pycache__/*
+/main/__pycache__
+/main/__pycache__/*
+/app.egg-info
+/app.egg-info/*
+setup.py
